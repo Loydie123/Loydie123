@@ -1,8 +1,15 @@
 # 👨‍💻 Loyd | Full Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=flat&logo=linkedin)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success.svg?style=flat&logo=react)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/Email-Contact-red.svg?style=flat&logo=gmail)](mailto:your-email)
+## 🏆 GitHub Profile Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Loydie123&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy" />
+</div>
+
+## 📊 GitHub Stats & Achievements
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Loydie123&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Loydie123&theme=github_dark" alt="GitHub Streak" />
+</div>
 
 ## 🚀 About Me
 Passionate Full Stack Developer with expertise in building scalable web applications. I specialize in both frontend and backend development, with a strong focus on creating efficient, user-friendly solutions. Currently contributing to innovative projects that make a positive impact.
