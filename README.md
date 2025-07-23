@@ -39,18 +39,6 @@ Passionate Full Stack Developer with expertise in building scalable web applicat
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 </div>
 
-## 🌟 Featured Projects
-
-### [findmyschool](https://github.com/Loydie123/findmyschool)
-An innovative platform built with TypeScript to help students find their ideal educational institutions.
-- **Tech Stack:** TypeScript, React, Node.js, MongoDB
-- **Key Features:** Advanced search algorithms, Real-time filtering, Interactive UI
-
-### [ecoCrate](https://github.com/Loydie123/ecoCrate)
-Sustainable e-commerce platform focused on eco-friendly products.
-- **Tech Stack:** TypeScript, Next.js, PostgreSQL
-- **Key Features:** Sustainable product tracking, Carbon footprint calculator
-
 ## 📫 Let's Connect
 - 💼 Open for collaboration on innovative projects
 - 📧 Reach out for professional opportunities
