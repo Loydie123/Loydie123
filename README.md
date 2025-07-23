@@ -7,26 +7,51 @@
 ## 🚀 About Me
 Passionate Full Stack Developer with expertise in building scalable web applications. I specialize in both frontend and backend development, with a strong focus on creating efficient, user-friendly solutions. Currently contributing to innovative projects that make a positive impact.
 
-## 💻 Technical Skills
+## 💻 Tech Stack
 
-### Frontend Development
-![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/React-Advanced-blue?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-Proficient-black?style=flat&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Advanced-38B2AC?style=flat&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=flat&logo=javascript)
+### Languages:
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+</div>
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-green?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-Proficient-black?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-green?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Proficient-blue?style=flat&logo=postgresql)
+### Frontend Frameworks:
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+</div>
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/Docker-Proficient-2496ED?style=flat&logo=docker)
-![VS Code](https://img.shields.io/badge/VS_Code-Power_User-007ACC?style=flat&logo=visual-studio-code)
-![AWS](https://img.shields.io/badge/AWS-Certified-232F3E?style=flat&logo=amazon-aws)
+### Backend Frameworks:
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
+</div>
+
+### Databases:
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+</div>
+
+### Tools:
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+</div>
 
 ## 🌟 Featured Projects
 
