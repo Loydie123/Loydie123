@@ -39,12 +39,39 @@ Passionate Full Stack Developer with expertise in building scalable web applicat
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 </div>
 
-### Tools:
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+## 🌟 Featured Projects
+
+### [findmyschool](https://github.com/Loydie123/findmyschool)
+An innovative platform built with TypeScript to help students find their ideal educational institutions.
+- **Tech Stack:** TypeScript, React, Node.js, MongoDB
+- **Key Features:** Advanced search algorithms, Real-time filtering, Interactive UI
+
+### [ecoCrate](https://github.com/Loydie123/ecoCrate)
+Sustainable e-commerce platform focused on eco-friendly products.
+- **Tech Stack:** TypeScript, Next.js, PostgreSQL
+- **Key Features:** Sustainable product tracking, Carbon footprint calculator
+
+## 📫 Let's Connect
+- 💼 Open for collaboration on innovative projects
+- 📧 Reach out for professional opportunities
+- 🤝 Always interested in connecting with fellow developers
+
+---
+
+## 🏆 GitHub Achievements
+<div align="center">
+  <img src="https://github.com/Giingu/Giingu/blob/main/assets/badges/MultiLanguage.png" width="90" height="90" />
+  <img src="https://github.com/Giingu/Giingu/blob/main/assets/badges/Commits.png" width="90" height="90" />
+  <img src="https://github.com/Giingu/Giingu/blob/main/assets/badges/Repositories.png" width="90" height="90" />
+  <img src="https://github.com/Giingu/Giingu/blob/main/assets/badges/Stars.png" width="90" height="90" />
+  <img src="https://github.com/Giingu/Giingu/blob/main/assets/badges/PullRequest.png" width="90" height="90" />
+</div>
+
+<div align="center">
+  <b>13 Repositories</b> • <b>Super Committer</b> • <b>TypeScript Expert</b>
+</div>
+
+---
+<div align="center">
+  <i>"Building the future, one commit at a time."</i>
 </div>
