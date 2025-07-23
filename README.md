@@ -1,16 +1,5 @@
 # 👨‍💻 Loyd | Full Stack Developer
 
-## 🏆 GitHub Profile Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Loydie123&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy" />
-</div>
-
-## 📊 GitHub Stats & Achievements
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Loydie123&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Loydie123&theme=github_dark" alt="GitHub Streak" />
-</div>
-
 ## 🚀 About Me
 Passionate Full Stack Developer with expertise in building scalable web applications. I specialize in both frontend and backend development, with a strong focus on creating efficient, user-friendly solutions. Currently contributing to innovative projects that make a positive impact.
 
@@ -59,38 +48,3 @@ Passionate Full Stack Developer with expertise in building scalable web applicat
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </div>
-
-## 🌟 Featured Projects
-
-### [findmyschool](https://github.com/Loydie123/findmyschool)
-An innovative platform built with TypeScript to help students find their ideal educational institutions.
-- **Tech Stack:** TypeScript, React, Node.js, MongoDB
-- **Key Features:** Advanced search algorithms, Real-time filtering, Interactive UI
-
-### [ecoCrate](https://github.com/Loydie123/ecoCrate)
-Sustainable e-commerce platform focused on eco-friendly products.
-- **Tech Stack:** TypeScript, Next.js, PostgreSQL
-- **Key Features:** Sustainable product tracking, Carbon footprint calculator
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Loydie123&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Loydie123&theme=github_dark" alt="GitHub Streak" />
-</div>
-
-## 🏆 Achievements
-- 🌱 **465+ Contributions** in the last year
-- 🚀 Successfully launched 2 major full-stack applications
-- 💻 Expertise in TypeScript and modern web development
-- 🛠️ Created 9 repositories showcasing various technical skills
-
-## 📫 Let's Connect
-- 💼 Open for collaboration on innovative projects
-- 📧 Reach out for professional opportunities
-- 🤝 Always interested in connecting with fellow developers
-
----
-<div align="center">
-  <i>"Building the future, one commit at a time."</i>
-</div> 
