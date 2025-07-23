@@ -48,33 +48,9 @@ Passionate Full Stack Developer with expertise in building scalable web applicat
 
 ## 🏆 GitHub Achievements
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/65187002/172940015-d9d072e7-c47d-4ddd-83f6-8e7717a721b8.png">
-    <img src="https://user-images.githubusercontent.com/65187002/172940015-d9d072e7-c47d-4ddd-83f6-8e7717a721b8.png" width="90">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/65187002/172940165-65a98168-6b5e-4d12-a677-7b67f666b325.png">
-    <img src="https://user-images.githubusercontent.com/65187002/172940165-65a98168-6b5e-4d12-a677-7b67f666b325.png" width="90">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/65187002/172940126-28e350c7-5cae-4c83-a68c-84eb2b60f2ca.png">
-    <img src="https://user-images.githubusercontent.com/65187002/172940126-28e350c7-5cae-4c83-a68c-84eb2b60f2ca.png" width="90">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/65187002/172940066-29b891ba-a1c0-4ed6-9525-3adc1c24ec82.png">
-    <img src="https://user-images.githubusercontent.com/65187002/172940066-29b891ba-a1c0-4ed6-9525-3adc1c24ec82.png" width="90">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/65187002/172940461-3f231c63-11b6-4805-9241-c83b31da3745.png">
-    <img src="https://user-images.githubusercontent.com/65187002/172940461-3f231c63-11b6-4805-9241-c83b31da3745.png" width="90">
-  </picture>
-</div>
-
-<div align="center">
-  <b>13 Repositories</b> • <b>Super Committer</b> • <b>TypeScript Expert</b>
-</div>
-
----
-<div align="center">
-  <i>"Building the future, one commit at a time."</i>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png" width="90" height="90"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default--light.png" width="90" height="90"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png" width="90" height="90"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default--light.png" width="90" height="90"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default--light.png" width="90" height="90"/>
 </div>
