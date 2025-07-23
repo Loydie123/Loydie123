@@ -48,18 +48,9 @@ Passionate Full Stack Developer with expertise in building scalable web applicat
 
 ## 🏆 GitHub Achievements
 <div align="center">
-  <img src="https://github.com/Giingu/Giingu/blob/main/assets/badges/MultiLanguage.png" width="90" height="90" />
-  <img src="https://github.com/Giingu/Giingu/blob/main/assets/badges/Commits.png" width="90" height="90" />
-  <img src="https://github.com/Giingu/Giingu/blob/main/assets/badges/Repositories.png" width="90" height="90" />
-  <img src="https://github.com/Giingu/Giingu/blob/main/assets/badges/Stars.png" width="90" height="90" />
-  <img src="https://github.com/Giingu/Giingu/blob/main/assets/badges/PullRequest.png" width="90" height="90" />
-</div>
-
-<div align="center">
-  <b>13 Repositories</b> • <b>Super Committer</b> • <b>TypeScript Expert</b>
-</div>
-
----
-<div align="center">
-  <i>"Building the future, one commit at a time."</i>
+  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Star-Struck/PNG/Skin-Tone-1.png" width="90" height="90" />
+  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pull-Shark/PNG/PullShark_BronzeBadge.png" width="90" height="90" />
+  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Quickdraw/PNG/Quickdraw_BronzeBadge.png" width="90" height="90" />
+  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire_BronzeBadge.png" width="90" height="90" />
+  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_BronzeBadge.png" width="90" height="90" />
 </div>
