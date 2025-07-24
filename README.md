@@ -46,11 +46,14 @@ Passionate Full Stack Developer with expertise in building scalable web applicat
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png" width="90" height="90"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default--light.png" width="90" height="90"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light.png" width="90" height="90"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default--light.png" width="90" height="90"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default--light.png" width="90" height="90"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Loydie123&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Loydie123&show_icons=true&theme=nord" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Loydie123&theme=nord" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loydie123&layout=compact&theme=nord" alt="Top Languages" />
 </div>
