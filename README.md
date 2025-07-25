@@ -102,7 +102,6 @@ Currently focused on developing innovative solutions that bridge web and mobile 
   <!-- GitHub Stats Card with enhanced metrics -->
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Loydie123&show_icons=true&count_private=true&hide_border=true&title_color=81a1c1&icon_color=81a1c1&text_color=c9d1d9&bg_color=0d1117&show_owner=true&include_all_commits=true&rank_icon=github" alt="Loyd's GitHub Stats" />
   
-  <!-- GitHub Streak Stats with enhanced styling -->
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Loydie123&hide_border=true&title_color=81a1c1&text_color=c9d1d9&bg_color=0d1117&fire=81a1c1&ring=81a1c1&currStreakLabel=81a1c1" alt="Loyd's GitHub Streak" />
 </div>
 
