@@ -110,7 +110,6 @@ Currently focused on developing innovative solutions that bridge web and mobile 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loydie123&layout=compact&hide_border=true&title_color=81a1c1&text_color=c9d1d9&bg_color=0d1117&langs_count=8&card_width=445" alt="Loyd's Most Used Languages" />
   
-  <!-- Contribution Stats -->
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Loydie123&theme=github_dark&utcOffset=8" alt="Loyd's Productive Time" />
 </div>
 
