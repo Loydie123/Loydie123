@@ -1,7 +1,14 @@
 # 👨‍💻 Loyd | Full Stack Developer
 
 ## 🚀 About Me
-Passionate Full Stack Developer with expertise in building scalable web applications. I specialize in both frontend and backend development, with a strong focus on creating efficient, user-friendly solutions. Currently contributing to innovative projects that make a positive impact.
+Versatile Full Stack Developer with expertise in web and mobile application development. I specialize in crafting scalable solutions across the entire development stack - from responsive web applications to native mobile experiences. My technical arsenal includes:
+
+- 💻 Web Development: Building modern, responsive web applications using React, Angular, and Vue.js
+- 📱 Mobile Development: Creating cross-platform mobile apps with React Native and native development for iOS/Android
+- ⚙️ Backend Systems: Designing robust server architectures with Node.js, NestJS, and cloud services
+- 🔄 Database Management: Working with both SQL and NoSQL databases for optimal data solutions
+
+Currently focused on developing innovative solutions that bridge web and mobile platforms, while maintaining a strong emphasis on performance, user experience, and code quality.
 
 ## 💻 Tech Stack
 
