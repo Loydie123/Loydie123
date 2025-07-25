@@ -114,7 +114,6 @@ Currently focused on developing innovative solutions that bridge web and mobile 
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Loydie123&theme=github_dark&utcOffset=8" alt="Loyd's Productive Time" />
 </div>
 
-<!-- Additional Stats -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Loydie123&theme=github_dark" alt="Loyd's Profile Details" />
 </div>
