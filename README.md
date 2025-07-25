@@ -88,12 +88,20 @@ Currently focused on developing innovative solutions that bridge web and mobile 
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Loydie123&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Loydie123&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Loydie123&show_icons=true&theme=nord" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Loydie123&theme=nord" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loydie123&layout=compact&theme=nord" alt="Top Languages" />
+  <!-- GitHub Stats Card with custom styling -->
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Loydie123&show_icons=true&count_private=true&hide_border=true&title_color=81a1c1&icon_color=81a1c1&text_color=c9d1d9&bg_color=0d1117" alt="Loyd's GitHub Stats" /> 
+  
+  <!-- GitHub Streak Stats with custom styling -->
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Loydie123&hide_border=true&title_color=81a1c1&text_color=c9d1d9&bg_color=0d1117" alt="Loyd's GitHub Streak" />
+</div>
+
+<!-- Most Used Languages with custom styling -->
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loydie123&layout=compact&hide_border=true&title_color=81a1c1&text_color=c9d1d9&bg_color=0d1117" alt="Loyd's Most Used Languages" />
 </div>
