@@ -93,15 +93,28 @@ Currently focused on developing innovative solutions that bridge web and mobile 
 
 ## 📊 GitHub Stats
 
+<!-- Activity Graph -->
 <div align="center">
-  <!-- GitHub Stats Card with custom styling -->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Loydie123&show_icons=true&count_private=true&hide_border=true&title_color=81a1c1&icon_color=81a1c1&text_color=c9d1d9&bg_color=0d1117" alt="Loyd's GitHub Stats" /> 
-  
-  <!-- GitHub Streak Stats with custom styling -->
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Loydie123&hide_border=true&title_color=81a1c1&text_color=c9d1d9&bg_color=0d1117" alt="Loyd's GitHub Streak" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Loydie123&theme=react-dark&hide_border=true&area=true" alt="Loyd's Contribution Graph" />
 </div>
 
-<!-- Most Used Languages with custom styling -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loydie123&layout=compact&hide_border=true&title_color=81a1c1&text_color=c9d1d9&bg_color=0d1117" alt="Loyd's Most Used Languages" />
+  <!-- GitHub Stats Card with enhanced metrics -->
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Loydie123&show_icons=true&count_private=true&hide_border=true&title_color=81a1c1&icon_color=81a1c1&text_color=c9d1d9&bg_color=0d1117&show_owner=true&include_all_commits=true&rank_icon=github" alt="Loyd's GitHub Stats" />
+  
+  <!-- GitHub Streak Stats with enhanced styling -->
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Loydie123&hide_border=true&title_color=81a1c1&text_color=c9d1d9&bg_color=0d1117&fire=81a1c1&ring=81a1c1&currStreakLabel=81a1c1" alt="Loyd's GitHub Streak" />
+</div>
+
+<!-- Most Used Languages with detailed breakdown -->
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loydie123&layout=compact&hide_border=true&title_color=81a1c1&text_color=c9d1d9&bg_color=0d1117&langs_count=8&card_width=445" alt="Loyd's Most Used Languages" />
+  
+  <!-- Contribution Stats -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Loydie123&theme=github_dark&utcOffset=8" alt="Loyd's Productive Time" />
+</div>
+
+<!-- Additional Stats -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Loydie123&theme=github_dark" alt="Loyd's Profile Details" />
 </div>
