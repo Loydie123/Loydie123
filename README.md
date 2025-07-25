@@ -106,7 +106,6 @@ Currently focused on developing innovative solutions that bridge web and mobile 
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Loydie123&hide_border=true&title_color=81a1c1&text_color=c9d1d9&bg_color=0d1117&fire=81a1c1&ring=81a1c1&currStreakLabel=81a1c1" alt="Loyd's GitHub Streak" />
 </div>
 
-<!-- Most Used Languages with detailed breakdown -->
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loydie123&layout=compact&hide_border=true&title_color=81a1c1&text_color=c9d1d9&bg_color=0d1117&langs_count=8&card_width=445" alt="Loyd's Most Used Languages" />
   
