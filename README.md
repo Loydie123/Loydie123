@@ -93,7 +93,6 @@ Currently focused on developing innovative solutions that bridge web and mobile 
 
 ## 📊 GitHub Stats
 
-<!-- Activity Graph -->
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Loydie123&theme=react-dark&hide_border=true&area=true" alt="Loyd's Contribution Graph" />
 </div>
