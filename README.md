@@ -9,7 +9,7 @@ A full-stack developer.
 
 - 🎓 I graduated at **Our Lady of Fatima University**
 - 📧 How to reach me: **gomezjohnloyd10@gmail.com**
-- ⚡ Fun fact: Do you code?
+- ⚡ Fun fact: Do you code? Yes, I do!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Loydie123&color=blueviolet&style=flat-square&label=Profile+Views)
 
