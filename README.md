@@ -19,131 +19,61 @@ https://www.facebook.com/loydie.official
 ## Languages:
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="javascript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="typescript"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="html5"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="css3"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=sass" alt="sass"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=php" alt="php"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="typescript"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="html5"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="css3"/>
+  <img src="https://skillicons.dev/icons?i=sass" alt="sass"/>
+  <img src="https://skillicons.dev/icons?i=php" alt="php"/>
 </p>
 
 ## Frontend Frameworks:
 
 <p align="left">
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="react"/>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=angular" alt="angular"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vue" alt="vuejs"/>
-  </a>
-  <a href="https://astro.build" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=astro" alt="astro"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=redux" alt="redux"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="react"/>
+  <img src="https://skillicons.dev/icons?i=angular" alt="angular"/>
+  <img src="https://skillicons.dev/icons?i=vue" alt="vuejs"/>
+  <img src="https://skillicons.dev/icons?i=astro" alt="astro"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=redux" alt="redux"/>
 </p>
 
 ## Backend Frameworks:
 
 <p align="left">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="express"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=firebase" alt="firebase"/>
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=graphql" alt="graphql"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=laravel" alt="laravel"/>
-  </a>
-  <a href="https://supabase.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=supabase" alt="supabase"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=express" alt="express"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/>
+  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase"/>
+  <img src="https://skillicons.dev/icons?i=graphql" alt="graphql"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs"/>
+  <img src="https://skillicons.dev/icons?i=laravel" alt="laravel"/>
+  <img src="https://skillicons.dev/icons?i=supabase" alt="supabase"/>
 </p>
 
 ## Databases:
 
 <p align="left">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=redis" alt="redis"/>
-  </a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=prisma" alt="prisma"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/>
+  <img src="https://skillicons.dev/icons?i=redis" alt="redis"/>
+  <img src="https://skillicons.dev/icons?i=prisma" alt="prisma"/>
 </p>
 
 ## Tools:
 
 <p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker" alt="docker"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="git"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="github"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postman" alt="postman"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma" alt="figma"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=npm" alt="npm"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vite" alt="vite"/>
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=webpack" alt="webpack"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="git"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="github"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="postman"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="figma"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode"/>
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm"/>
+  <img src="https://skillicons.dev/icons?i=vite" alt="vite"/>
+  <img src="https://skillicons.dev/icons?i=webpack" alt="webpack"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind"/>
 </p>
 
 ---
