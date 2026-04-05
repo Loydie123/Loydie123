@@ -20,22 +20,22 @@ https://www.facebook.com/loydie.official
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=js" alt="javascript"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=ts" alt="typescript"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=html" alt="html5"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=css" alt="css3"/>
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=sass" alt="sass"/>
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=php" alt="php"/>
   </a>
 </p>
 
@@ -43,25 +43,25 @@ https://www.facebook.com/loydie.official
 
 <p align="left">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=react" alt="react"/>
   </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=angular" alt="angular"/>
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=vue" alt="vuejs"/>
   </a>
   <a href="https://astro.build" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=astro" alt="astro"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"/>
   </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=redux" alt="redux"/>
   </a>
 </p>
 
@@ -69,25 +69,25 @@ https://www.facebook.com/loydie.official
 
 <p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=express" alt="express"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=firebase" alt="firebase"/>
   </a>
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=graphql" alt="graphql"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=laravel" alt="laravel"/>
   </a>
   <a href="https://supabase.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=supabase" alt="supabase"/>
   </a>
 </p>
 
@@ -95,19 +95,19 @@ https://www.facebook.com/loydie.official
 
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql"/>
   </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=redis" alt="redis"/>
   </a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=prisma" alt="prisma"/>
   </a>
 </p>
 
@@ -115,34 +115,34 @@ https://www.facebook.com/loydie.official
 
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=docker" alt="docker"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=git" alt="git"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="github"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=postman" alt="postman"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=figma" alt="figma"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode"/>
   </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=npm" alt="npm"/>
   </a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=vite" alt="vite"/>
   </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=webpack" alt="webpack"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" style="background: #2d2d2d; padding: 10px; border-radius: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind"/>
   </a>
 </p>
 
