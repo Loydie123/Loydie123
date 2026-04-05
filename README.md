@@ -83,21 +83,3 @@ https://www.facebook.com/loydie.official
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Loydie123&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Loydie123&show_icons=true&count_private=true&hide_border=true&title_color=81a1c1&icon_color=81a1c1&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Loydie123&hide_border=true&title_color=81a1c1&text_color=c9d1d9&bg_color=0d1117&fire=81a1c1&ring=81a1c1&currStreakLabel=81a1c1" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Loydie123&theme=react-dark&hide_border=true&area=true" />
-</div>
-
----
-
-## 📫 Let's Connect
-<div align="center">
-  
-💼 Open for collaboration | 📧 Professional opportunities | 🤝 Connect with fellow developers
-
-</div>
